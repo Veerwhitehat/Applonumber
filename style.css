@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+	background-image:url("https://previews.123rf.com/images/nasaimages/nasaimages1807/nasaimages180700387/105147096-giant-glowing-nebula-space-background-with-red-nebula-and-stars-.jpg?fj=1") ;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+#button{
+	font-size: 35px;
+	background-color: aqua;
+	color: red;
+	padding-bottom: 30px;
+}
+#h3{
+	font-size: 35px;
+    color: whitesmoke;
+}
